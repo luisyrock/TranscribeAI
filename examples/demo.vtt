@@ -1,0 +1,20 @@
+WEBVTT
+
+NOTE
+Reunión ficticia para probar TranscribeAI. Ningún contenido proviene de reuniones reales.
+
+1
+00:00:00.000 --> 00:00:08.000
+<v Persona A>El objetivo de hoy es acordar cómo organizar nuestro archivo de reuniones.</v>
+
+2
+00:00:09.000 --> 00:00:19.000
+<v Persona B>Propongo cargar las transcripciones VTT y buscar por palabras o por significado. Cada respuesta debe mostrar sus fuentes.</v>
+
+3
+00:00:20.000 --> 00:00:32.000
+<v Persona A>Acordamos empezar con una instalación local en Docker. Revisaré las citas y prepararé una guía de uso el viernes.</v>
+
+4
+00:00:33.000 --> 00:00:45.000
+<v Persona B>Yo probaré la carga de varios archivos y la eliminación de reuniones. Mantendremos un presupuesto diario de un dólar por clave.</v>
