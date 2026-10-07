@@ -1,0 +1,74 @@
+LICENCIA DE USO EDUCATIVO DE TRANSCRIBEAI
+Versión 1.0
+
+Copyright (c) 2026 luisyrock.
+Todos los derechos reservados, salvo las autorizaciones expresas siguientes.
+
+1. Ámbito
+
+Esta licencia se aplica al código, la documentación y los recursos originales
+de TranscribeAI incluidos en este repositorio (en adelante, el Software).
+Las bibliotecas, dependencias y demás componentes de terceros mantienen sus
+propias licencias; este documento no modifica ni restringe los derechos
+concedidos por sus respectivos titulares.
+
+2. Uso educativo permitido
+
+Se concede una autorización limitada, no exclusiva y no transferible para
+consultar y estudiar el Software, y para descargarlo, compilarlo y ejecutarlo
+localmente con el único fin de aprendizaje, enseñanza o experimentación
+educativa no comercial. Se permiten únicamente las copias locales necesarias
+para esos fines, incluidos los archivos generados durante la compilación y
+los contenedores locales. Los ajustes al código para ejercicios educativos
+deben permanecer privados y dentro de ese mismo ámbito.
+
+Debe conservarse este aviso de copyright y el texto de esta licencia en las
+copias autorizadas. Esta autorización no concede derechos para publicar o
+distribuir copias o versiones modificadas de la aplicación.
+
+3. Usos no autorizados
+
+Sin autorización previa y escrita de luisyrock, no se permite:
+
+a) Reproducir el Software, total o parcialmente, salvo las copias locales
+   expresamente permitidas en el apartado 2.
+b) Redistribuir, republicar, sublicenciar, vender, alquilar o entregar el
+   Software o una versión modificada a terceros, incluso gratuitamente o
+   con fines educativos.
+c) Publicar paquetes, imágenes de contenedor, compilaciones o copias de la
+   aplicación para su distribución, o integrarla en otro producto distribuido.
+d) Usar el Software con fines comerciales, ofrecerlo como servicio alojado,
+   o explotarlo como producto para terceros.
+e) Eliminar los avisos de titularidad o presentar el Software como obra propia.
+
+4. Repositorio público y derechos aplicables
+
+Esta licencia respeta los derechos de visualización y fork dentro de GitHub
+que resulten de sus condiciones de servicio aplicables a repositorios públicos.
+Esa posibilidad no concede, por esta licencia, permisos adicionales de
+redistribución, comercialización o explotación de la aplicación fuera de los
+usos expresamente autorizados.
+
+Ninguna disposición limita derechos o excepciones que no puedan restringirse
+según la legislación aplicable. Los usos distintos a los aquí permitidos
+requieren una autorización escrita independiente del titular.
+
+5. Garantías y responsabilidad
+
+El Software se proporciona tal cual, sin garantías expresas o implícitas,
+en la medida permitida por la legislación aplicable. En esa misma medida,
+el titular no responde por daños derivados de su uso. Esta cláusula no
+excluye responsabilidades que la ley no permita excluir.
+
+6. Terminación
+
+La autorización concedida termina si se incumplen sus condiciones. En ese
+caso debe cesar el uso amparado por esta licencia y eliminarse las copias
+locales realizadas bajo dicha autorización, salvo obligaciones legales de
+conservación o derechos que no puedan ser restringidos.
+
+7. Autorizaciones adicionales
+
+Las solicitudes de usos adicionales deben dirigirse al titular identificado
+por la cuenta de GitHub https://github.com/luisyrock. La publicación del código
+no concede permisos adicionales implícitos.

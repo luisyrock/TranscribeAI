@@ -90,15 +90,8 @@ El contenedor ejecuta un solo worker. SQLite FTS5 y similitud coseno bastan para
 
 Los resúmenes largos usan hasta 30 fragmentos distribuidos en el tiempo y avisan de su cobertura parcial. Las respuestas pueden contener errores del modelo; las citas permiten contrastarlas. Esta versión no se conecta automáticamente a Teams ni a GitHub/Jira/Confluence.
 
-## Preparación para GitHub
+## Licencia
 
-Git excluye claves y configuraciones locales, transcripciones personales, bases de datos, copias de seguridad, capturas y notas internas de trabajo. El único VTT incluido es el ejemplo ficticio. Evita usar `git add -f` para incluir archivos privados. Consulta [SECURITY.md](SECURITY.md) antes de compartir una instalación.
+TranscribeAI se publica bajo una [licencia personalizada de uso educativo](LICENSE). Permite estudiar el código y ejecutar la app localmente con fines educativos no comerciales. Las copias locales se permiten únicamente en la medida necesaria para ese uso.
 
-Para subir una copia con su commit inicial, crea un repositorio vacío en GitHub y sustituye `URL_DEL_REPOSITORIO` por su URL:
-
-```sh
-git remote add origin URL_DEL_REPOSITORIO
-git push -u origin HEAD
-```
-
-El proyecto todavía no declara una licencia de distribución; decide la licencia antes de presentarlo como código abierto.
+No se autoriza reproducir la app para su distribución, republicarla, comercializarla ni ofrecerla como servicio. Se requiere autorización previa y escrita de `luisyrock` para esos usos. Las licencias de las dependencias conservan sus propios términos. Al estar alojado en un repositorio público, se respetan los derechos de visualización y fork dentro de GitHub previstos en sus condiciones de servicio.
