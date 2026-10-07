@@ -1,0 +1,16 @@
+services:
+  app:
+    build: .
+    ports:
+      - "127.0.0.1:${APP_PORT:-8897}:8000"
+    env_file: .env
+    volumes:
+      - transcribeai_data:/data
+      - ./imports:/imports:ro
+    restart: unless-stopped
+    init: true
+    stop_grace_period: 100s
+    security_opt:
+      - no-new-privileges:true
+volumes:
+  transcribeai_data:
